@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "547482253499",
+    "project_id": "complex-22f3c",
+    "storage_bucket": "complex-22f3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547482253499:android:99460b0aefa711c7f3519e",
+        "android_client_info": {
+          "package_name": "dev.flutter.alfakher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXILIXDLlZC3pOuIzyRKnz-IULj-MPFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547482253499:android:1ca65a4d1a4db229f3519e",
+        "android_client_info": {
+          "package_name": "dev.flutter.karam.baghdad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXILIXDLlZC3pOuIzyRKnz-IULj-MPFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547482253499:android:b48b8af6419c619bf3519e",
+        "android_client_info": {
+          "package_name": "dev.flutter.lamac.complex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXILIXDLlZC3pOuIzyRKnz-IULj-MPFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547482253499:android:cc82f020ead9675ef3519e",
+        "android_client_info": {
+          "package_name": "dev.flutter.lamac_towers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXILIXDLlZC3pOuIzyRKnz-IULj-MPFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547482253499:android:1af553ac88dee4def3519e",
+        "android_client_info": {
+          "package_name": "dev.flutter.lamassu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXILIXDLlZC3pOuIzyRKnz-IULj-MPFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547482253499:android:6925d09a20336bfdf3519e",
+        "android_client_info": {
+          "package_name": "dev.flutter.rawan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXILIXDLlZC3pOuIzyRKnz-IULj-MPFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547482253499:android:830a0135e4df841bf3519e",
+        "android_client_info": {
+          "package_name": "dev.flutter.wedcomplex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXILIXDLlZC3pOuIzyRKnz-IULj-MPFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547482253499:android:6111dc82dcbdd4d4f3519e",
+        "android_client_info": {
+          "package_name": "net.lam.abasly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXILIXDLlZC3pOuIzyRKnz-IULj-MPFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547482253499:android:5746ce023e9e5926f3519e",
+        "android_client_info": {
+          "package_name": "net.lam.alnahda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXILIXDLlZC3pOuIzyRKnz-IULj-MPFMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
